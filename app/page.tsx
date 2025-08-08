@@ -403,9 +403,9 @@ export default function InvitacionXV() {
 
   // 8 fotos reales - estas rutas apuntan a la carpeta public/assets/photos/
   const photos = [
-    "/assets/photos/foto-1.jpg",
+    "/assets/photos/foto-1.JPG",
     "/assets/photos/foto-2.jpg", 
-    "/assets/photos/foto-3.jpg",
+    "/assets/photos/foto-3.JPG",
     "/assets/photos/foto-4.jpg",
     "/assets/photos/foto-5.jpg",
     "/assets/photos/foto-10.jpg",
@@ -813,7 +813,7 @@ export default function InvitacionXV() {
             <div className="absolute top-1/2 left-1/4 w-20 h-20 bg-gradient-to-br from-slate-300/25 to-blue-300/25 rounded-full blur-lg opacity-40 animate-pulse delay-600"></div>
             
             {/* Elementos decorativos temáticos - vestimenta y regalos */}
-            <div className="absolute top-20 right-1/4 text-slate-300/30 text-4xl animate-pulse delay-400">◇</div>
+            <div className="absolute top-20 right-1/4 text-slate-300/30 text-4xl animate-pulse delay-400">✨</div>
             <div className="absolute bottom-32 left-1/3 text-blue-300/35 text-3xl animate-bounce delay-800">▣</div>
             <div className="absolute top-1/3 left-16 text-slate-400/25 text-5xl animate-pulse delay-1200">◆</div>
             <div className="absolute bottom-16 right-1/3 text-blue-300/40 text-2xl animate-bounce delay-500">✦</div>
@@ -822,7 +822,7 @@ export default function InvitacionXV() {
             <div className="absolute top-2/3 right-24 text-slate-400/30 text-2xl animate-pulse delay-300">✧</div>
             <div className="absolute bottom-1/4 left-20 text-blue-300/35 text-3xl animate-bounce delay-1100">◐</div>
             <div className="absolute top-1/4 right-1/3 text-slate-300/25 text-5xl animate-pulse delay-700">◆</div>
-            <div className="absolute bottom-48 left-1/4 text-blue-200/40 text-2xl animate-bounce delay-1400">◇</div>
+            <div className="absolute bottom-48 left-1/4 text-blue-200/40 text-2xl animate-bounce delay-1400">✨</div>
             
             <AnimatedSection>
               <div className="max-w-4xl mx-auto grid gap-6 sm:gap-8 md:grid-cols-2">
